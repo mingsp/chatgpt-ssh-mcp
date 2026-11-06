@@ -1,0 +1,6 @@
+Host research-box
+    HostName linux.example.com
+    User researcher
+    Port 22
+    IdentityFile ~/.ssh/id_ed25519
+    IdentitiesOnly yes

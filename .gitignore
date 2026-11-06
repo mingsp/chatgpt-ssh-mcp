@@ -1,0 +1,14 @@
+__pycache__/
+*.py[cod]
+.venv/
+.env
+.env.*
+*.local
+*.log
+*.pem
+*.key
+*.ppk
+id_*
+known_hosts*
+.ssh/
+secrets/
